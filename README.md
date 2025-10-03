@@ -1,4 +1,11 @@
-  <section id="about">
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="gallery">
+    <img src="images/school1.jpg" alt="School Building">
+    <img src="images/school2.jpg" alt="Classroom">
+    <img src="images/logo.png" alt="School Logo">
+  </div>
+</section>  <section id="about">
     <h2>About Our School</h2>
     <p>We provide quality education and a nurturing environment for learners.</p>
     <h3>School Profile</h3>
