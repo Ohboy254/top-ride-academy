@@ -1,4 +1,35 @@
-- Grade 1: 18 learners
+  <section id="about">
+    <h2>About Our School</h2>
+    <p>We provide quality education and a nurturing environment for learners.</p>
+    <h3>School Profile</h3>
+    <p>
+      Top Ride Academy was founded with a vision to inspire excellence and promote holistic development in every learner. Since its establishment, the academy has grown into a dynamic community of educators and students committed to academic achievement and personal growth.
+    </p>
+    <h4>Academic Programs</h4>
+    <p>
+      Our curriculum covers core subjects such as Mathematics, English, Science, and Social Studies, enhanced by technology integration and project-based learning. We offer enrichment in arts, languages, and computer studies.
+    </p>
+    <h4>Extracurricular Activities</h4>
+    <p>
+      Students participate in a wide range of extracurriculars, including football, drama club, music, debate, and environmental projects. These activities foster teamwork, leadership, and creativity.
+    </p>
+    <h4>Facilities</h4>
+    <p>
+      The school campus features modern classrooms, a well-equipped science lab, computer center, spacious library, playground, and an arts studio.
+    </p>
+    <h4>Achievements</h4>
+    <p>
+      Top Ride Academy is proud of its outstanding examination results and has received awards in regional science and arts competitions.
+    </p>
+    <h4>Community Engagement</h4>
+    <p>
+      Our school partners with local organizations for service projects and hosts annual events that bring together families and community leaders.
+    </p>
+    <h4>Admission</h4>
+    <p>
+      We welcome applications from families seeking a nurturing and academically rigorous environment. Admission details are available on our website or at the school office.
+    </p>
+  </section>- Grade 1: 18 learners
 - Grade 2: 24 learners
 - Grade 3: 23 learners
 - Grade 4: 20 learners
