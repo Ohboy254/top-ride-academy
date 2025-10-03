@@ -1,4 +1,12 @@
-<!DOCTYPE html>
+- Grade 1: 18 learners
+- Grade 2: 24 learners
+- Grade 3: 23 learners
+- Grade 4: 20 learners
+- Grade 5: 27 learners
+- Grade 6: 18 learners
+- Grade 7: 24 learners
+- Grade 8: 22 learners
+- Grade 9: 18 learners<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
