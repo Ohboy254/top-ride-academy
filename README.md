@@ -1,4 +1,21 @@
-<section id="gallery">
+# Teachers at TOP RIDE ACADEMY
+
+- Mr Odhiambo
+- Mr Nyamosi
+- Mr Ondabu
+- Mr Sakawa
+- Mr Okello
+- Mdm Grace
+- Mdm Jemima
+- Mdm Catherine
+- Mdm Prisca
+- Mdm Regina
+- Mdm Janet
+- Mdm Joan
+- Mdm Esther
+- Mdm Mary
+- Mdm Margaret
+- Mdm Nasra<section id="gallery">
   <h2>Gallery</h2>
   <div class="gallery">
     <img src="images/school1.jpg" alt="School Building">
